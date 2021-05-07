@@ -11,7 +11,7 @@ this app display 20 news articles reagrding health user navigate to respective w
 
 ## Run Locally
 
-Install App through this Link: https://github.com/siddhraj-sinh/MADNewsApp/blob/master/Download%20App/MAD%20News%20App.apk
+Install App through this Drive Link: https://drive.google.com/file/d/1gNRn6OrfP8aO5z6D7gDX8-rO9UbE23Ou/view?usp=sharing
 
 ## Useful Links
 
